@@ -1,0 +1,46 @@
+/*!
+	Write Custom CSS here
+*/
+
+h1 {
+	font-family:'UnifrakturMaguntia',cursive;
+	font-size: 80px;
+	color: #FFFFFF
+}
+
+h2 {
+	color: #FFFFFF
+}
+
+h3 {
+	color: #FFFFFF
+}
+
+h4 {
+	color: #CC66FF
+}
+
+{
+	color: #CC66FF
+}
+
+p {
+	color:#3399FF
+	}
+	
+li {
+	color: #3399FF
+}
+	
+body {
+
+	background-image: url("http://web.thewallpapers.org/photo/28999/harry-potter-and-the-deathly-hallows-114.jpg")
+}
+
+img.potter {
+	opacity: 0.6;
+   }
+
+
+
+
